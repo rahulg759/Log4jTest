@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19697" started-at="2018-10-15T17:10:21Z" finished-at="2018-10-15T17:10:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19697" started-at="2018-10-15T17:10:21Z" finished-at="2018-10-15T17:10:40Z">
+      <class name="com.java.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.Login@11fba17]" name="setUp" is-config="true" duration-ms="10876" started-at="2018-10-15T22:40:21Z" finished-at="2018-10-15T22:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCRMTitle()[pri:0, instance:com.java.Login@11fba17]" name="testCRMTitle" duration-ms="32" started-at="2018-10-15T22:40:32Z" finished-at="2018-10-15T22:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCRMTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.java.Login@11fba17]" name="tearDown" is-config="true" duration-ms="79" started-at="2018-10-15T22:40:32Z" finished-at="2018-10-15T22:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.Login@11fba17]" name="setUp" is-config="true" duration-ms="8466" started-at="2018-10-15T22:40:32Z" finished-at="2018-10-15T22:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CRMLogo()[pri:1, instance:com.java.Login@11fba17]" name="CRMLogo" duration-ms="99" started-at="2018-10-15T22:40:40Z" finished-at="2018-10-15T22:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRMLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.java.Login@11fba17]" name="tearDown" is-config="true" duration-ms="105" started-at="2018-10-15T22:40:40Z" finished-at="2018-10-15T22:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.java.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
